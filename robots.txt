@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://pinnate-uttermost-fiber.glitch.me/sitemap.xml
